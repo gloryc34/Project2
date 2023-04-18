@@ -18,7 +18,7 @@ import org.jfree.ui.ApplicationFrame;
  * @author Colin Glory
  * @version Version: 2022-12 (4.26.0)
  * Generated ideas and got information from: https://commons.apache.org/proper/commons-math/  https://www.jfree.org/jfreechart/  https://www.tutorialspoint.com/jfreechart/jfreechart_xy_chart.htm  https://www.youtube.com/watch?v=MifbwoCumX0&t=402s
- * 
+ * Followed tutorial to graph from https://www.tutorialspoint.com/jfreechart/jfreechart_xy_chart.htm
  */
 public class normalFunction extends ApplicationFrame {
 	/**
